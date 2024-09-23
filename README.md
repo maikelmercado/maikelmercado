@@ -38,6 +38,7 @@
 <div align="center">
 
 ## 📊 GitHub Stats:
+ ![](https://img.shields.io/badge/_Github-you_like-blue)
 
 ![](https://github-readme-stats.vercel.app/api?username=maikelmercado&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maikelmercado&theme=dark&hide_border=true)<br/>
